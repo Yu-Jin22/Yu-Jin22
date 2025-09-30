@@ -1,4 +1,11 @@
-## Hi there 👋
+## YuJin Han
+🌱 I’m currently learning...
+<div style="display:flex;gap:30px;flex-wrap:wrap;">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+</div>
 
 <!--
 **Yu-Jin22/Yu-Jin22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
